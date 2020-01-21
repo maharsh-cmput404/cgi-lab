@@ -3,4 +3,5 @@
 3) HTTP_USER_AGENT
 4) It comes through form parameters in the POST request and can be read using cgi.FieldStorage()
 5) Set-Cookie: name=value
-6)
+6) Cookie: password=password;username=username
+7) They are shared variables between the client and the server that can be used for identification purposes

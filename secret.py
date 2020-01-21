@@ -15,5 +15,5 @@ class FollowingTheTAsInstructionsError(Exception):
 # raise FollowingTheTAsInstructionsError
 
 # Edit the following two lines:
-username = "maharsh"
+username = "admin"
 password = "password"
