@@ -1,0 +1,6 @@
+1) os.environ
+2) QUERY_STRING
+3) HTTP_USER_AGENT
+4) It comes through form parameters in the POST request and can be read using cgi.FieldStorage()
+5) Set-Cookie: name=value
+6)
